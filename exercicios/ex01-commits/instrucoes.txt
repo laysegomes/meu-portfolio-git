@@ -1,0 +1,1 @@
+"Este exercicio foca em usar commits semanticamente corretos." 
