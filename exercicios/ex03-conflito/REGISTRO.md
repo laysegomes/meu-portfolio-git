@@ -1,0 +1,1 @@
+A cor favorita do time A é azul
